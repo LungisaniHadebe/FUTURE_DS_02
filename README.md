@@ -10,10 +10,10 @@ The project focuses on **Customer Retention and Churn Analysis** for an Online R
 - Customer Retention & Churn Analysis.mp4 – Screen recording
 
 ## Dataset
--Dataset Used: Telco Customer Churn Dataset
--Contains customer demographics, subscription details, services, and churn status
+- Dataset Used: Telco Customer Churn Dataset 
+- Contains customer demographics, subscription details, services, and churn status
 
--Access the dataset here:
+Access the dataset here:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## How to Use

@@ -9,6 +9,13 @@ The project focuses on **Customer Retention and Churn Analysis** for an Online R
 - Future interns Task 2.pbix – Main Power BI report file
 - Customer Retention & Churn Analysis.mp4 – Screen recording
 
+## Dataset
+-Dataset Used: Telco Customer Churn Dataset
+-Contains customer demographics, subscription details, services, and churn status
+
+-Access the dataset here:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 ## How to Use
 
 1. Open **Future interns Task 2.pbix** in **Power BI Desktop** (latest version recommended).

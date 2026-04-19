@@ -1,40 +1,42 @@
-# FUTURE_DS_02
-Future Interns 
-## Overview
-This project analyzes customer data to understand churn, retention, and customer behavior.
-The goal is to identify why customers leave and suggest ways to improve retention.
+# Future Interns Task 2 – Customer Retention & Churn Analysis
 
-## Objectives
-  1. Identify churn patterns
-  2. Analyze customer retention
-  3. Understand customer lifetime
-  4. Provide business recommendations
-## Dataset
-  1. Telco Customer Churn Dataset (Kaggle)
-  2. Includes: CustomerID, Tenure, Contract, Payment Method, Monthly Charges, Internet Service
-## Tools Used
-  1. Microsoft Excel – Data cleaning and preparation
-  2. Power BI – Dashboard and visualization
-## Key Metrics
-  1. Churn Rate: % of customers who left
-  2. Churned Customers: Total number of customers who left
-  3. Customer Lifetime: Average time customers stay
-  4. Customer Segments: Contract type, tenure, services
-## Dashboard Features
-  1. Churn rate overview
-  2. Churn by contract type
-  3. Churn by tenure group
-  4. Churn by payment method
-  5. Churn by internet service
-  6. Customer lifetime comparison
-## Insights
+## Project Overview
+This is my submission for **Future Interns Task 2**.  
 
-Customers on month-to-month contracts, with high monthly charges, and short tenure (0–12 months) have the highest churn rates. Additionally, customers without services like tech support, online security, and device protection are more likely to leave, showing that value-added services play a key role in retention.
+The project focuses on **Customer Retention and Churn Analysis** for an Online Retail business. The dashboard provides insights into customer behavior, churn patterns, retention rates, and key metrics to help drive customer loyalty strategies.
 
-## Recommendations
-  1. Encourage long-term contracts (1–2 years)
-  2. Offer support services to new customers
-  3. Target high-charge customers with incentives
-  4. Focus on retaining customers in the first 12 months
+**Files Included:**
+- Future interns Task 2.pbix – Main Power BI report file
+- Customer Retention & Churn Analysis.mp4 – Screen recording
+
+## How to Use
+
+1. Open **Future interns Task 2.pbix** in **Power BI Desktop** (latest version recommended).
+2. Watch the **Customer Retention & Churn Analysis.mp4** video first to see the full functionality, navigation, and insights.
+3. Interact with the report using slicers, filters, drill-throughs, and cross-highlighting.
+
+## Key Features
+- Comprehensive **Customer Churn Analysis**
+- **Retention Rate** tracking over time
+- Customer segmentation (by value, behavior, tenure, etc.)
+- Key KPIs and trend visualizations
+- Professional design using consistent theming and layout
+- Interactive dashboards for easy exploration
+
+## Technical Details
+- **Tool**: Power BI Desktop
+- **Visuals**: Bar & Column charts, Line charts, KPI cards, Donut charts, Tables/Matrix, Advanced slicers
+
+## Purpose
+This task demonstrates my ability to:
+- Analyze customer retention and churn using real-world retail data
+- Create actionable business intelligence dashboards
+- Design clear, interactive, and visually appealing reports
+- Communicate insights effectively through data visualization
+
+**Notes:**
+- The report is fully interactive. The screen recording serves as a complete walkthrough.
+- Data refresh may be required if connected to external sources.
+
 ## Author
-Lungisani Hadebe
+- Lungisani Hadebe
